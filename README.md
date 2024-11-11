@@ -43,15 +43,15 @@ Aqui algumas ferramentas que eu ja tive contato:
 
 <div align="center">
   <!-- Primeiro Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SrStarkiller1500&theme=transparent&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="400" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrStarkiller1500&theme=transparent&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
 
   <!-- Segundo Card -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SrStarkiller1500&theme=bear&background=f4f4f4&border=30A3DC&dates=333" width="400" height="180">
+    <img src="https://streak-stats.demolab.com/?user=SrStarkiller1500&theme=bear&background=f4f4f4&border=30A3DC&dates=333" width="500" height="200">
   </a>
 
   <!-- Terceiro Card -->
   <a href="https://github.com/SrStarkiller1500/Bootcamp-DIO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=BootCamp-DIO&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="400" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=BootCamp-DIO&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
   </a>
 </div>
