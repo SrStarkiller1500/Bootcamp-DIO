@@ -40,8 +40,18 @@ Aqui algumas ferramentas que eu ja tive contato:
 
 
 # Status do Meu GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrStarkiller1500&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SrStarkiller1500&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<div align="center">
+  <!-- Primeiro Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SrStarkiller1500&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="400" height="180">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=BootCamp-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SrStarkiller1500/BootCamp-DIO)
+  <!-- Segundo Card -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=SrStarkiller1500&theme=bear&background=000&border=30A3DC&dates=FFF" width="400" height="180">
+  </a>
+
+  <!-- Terceiro Card -->
+  <a href="https://github.com/SrStarkiller1500/Bootcamp-DIO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=BootCamp-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="400" height="180">
+  </a>
+</div>
