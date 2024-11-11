@@ -52,6 +52,6 @@ Aqui algumas ferramentas que eu ja tive contato:
 
   <!-- Terceiro Card com link para a página de repositórios -->
   <a href="https://github.com/SrStarkiller1500?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-%23f4f4f4?style=flat&logo=github&logoColor=black&color=30A3DC&labelColor=f4f4f4&textColor=333&label=Repositories%20Overview" width="500" height="200">
+    <img src="https://img.shields.io/badge/View%20Repositories-%23f4f4f4?style=flat&logo=github&logoColor=black&color=30A3DC&labelColor=f4f4f4&textColor=333" width="500" height="50">
   </a>
 </div>
