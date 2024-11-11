@@ -42,28 +42,16 @@ Aqui algumas ferramentas que eu ja tive contato:
 # Status do Meu GitHub
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=SrStarkiller1500&theme=transparent&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="400" height="180">
+  <!-- Primeiro Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SrStarkiller1500&theme=transparent&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
 
-
+  <!-- Segundo Card -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SrStarkiller1500&theme=bear&background=f4f4f4&border=30A3DC&dates=333" width="400" height="180">
+    <img src="https://streak-stats.demolab.com/?user=SrStarkiller1500&theme=bear&background=f4f4f4&border=30A3DC&dates=333" width="500" height="200">
   </a>
 
-
-  <a href="https://github.com/SrStarkiller1500/Conta-Bancaria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=Conta-Bancaria&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
-  </a>
-  <a href="https://github.com/SrStarkiller1500/Controle-de-Fluxo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=Controle-de-Fluxo&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
-  </a>
-  <a href="https://github.com/SrStarkiller1500/Desafio-POO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=Desafio-POO&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
-  </a>
-  <a href="https://github.com/SrStarkiller1500/Desafio-de-Banco---DIO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=Desafio-de-Banco---DIO&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
-  </a>
-  <a href="https://github.com/SrStarkiller1500/Abstraindo-o-Bootcamp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrStarkiller1500&repo=Abstraindo-o-Bootcamp&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
+  <!-- Terceiro Card com link para a página de repositórios -->
+  <a href="https://github.com/SrStarkiller1500?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-%23f4f4f4?style=flat&logo=github&logoColor=black&color=30A3DC&labelColor=f4f4f4&textColor=333&label=Repositories%20Overview" width="500" height="200">
   </a>
 </div>
