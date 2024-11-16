@@ -42,15 +42,15 @@ Aqui algumas ferramentas que eu ja tive contato:
 # Status do Meu GitHub
 
 <div align="center">
-  <!-- Primeiro Card -->
+  
   <img src="https://github-readme-stats.vercel.app/api?username=SrStarkiller1500&theme=transparent&bg_color=f4f4f4&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=333" width="500" height="200">
 
-  <!-- Segundo Card -->
+ 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=SrStarkiller1500&theme=bear&background=f4f4f4&border=30A3DC&dates=333" width="500" height="200">
   </a>
 
-  <!-- Terceiro Card com link para a página de repositórios -->
+ 
   <a href="https://github.com/SrStarkiller1500?tab=repositories">
     <img src="https://img.shields.io/badge/View%20Repositories-%23f4f4f4?style=flat&logo=github&logoColor=black&color=30A3DC&labelColor=f4f4f4&textColor=333" width="500" height="50">
   </a>

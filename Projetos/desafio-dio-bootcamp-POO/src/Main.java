@@ -43,7 +43,7 @@ public class Main {
         exibirProgressoDev(devMaria);
     }
 
-    // Método auxiliar para criar um Dev e inscrevê-lo no Bootcamp//
+    // Método auxiliar para criar um Dev e inscrevê-lo no Bootcamp
     private static Dev criarDevComInscricao(String nome, Bootcamp bootcamp) {
         Dev dev = new Dev();
         dev.setNome(nome);
